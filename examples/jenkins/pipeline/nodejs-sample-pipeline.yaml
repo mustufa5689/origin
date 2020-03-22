@@ -1,4 +1,4 @@
-kind: "build.openshift.io/v1"
+kind: "BuildConfig"
 apiVersion: "v1"
 metadata:
   name: "nodejs-sample-pipeline"
